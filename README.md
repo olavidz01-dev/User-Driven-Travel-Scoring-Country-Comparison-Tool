@@ -75,7 +75,15 @@ Develop dynamic, customizable dashboards with Power BI, enabling users to explor
 
 * Automatically selects the best country based on score
 * Assign star rating (5-star rating)
+  * UN Member = 1.5
+  * Independent Nation= 2
+  * Population Density
+    * Population Density < 50 people per km2 = 1.5
+    * Population Density < 150 people per km2 = 1.2
+    * Population Density < 300 people per km2 = 1.0
+    * Population Density > 300 people per km2 = 0.5
 * Handles tie scenarios intelligently
+    
 
 ### 🎨 Enhanced UX/UI
 

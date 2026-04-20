@@ -6,9 +6,9 @@
 ---
 
 ## Business Overview
-**TripLens Global** is a forward-thinking travel and tourism analytics company dedicated to transforming how individuals and organizations explore destinations worldwide. Founded in 2023, the company delivers data-driven insights that empower travellers and travel agencies to make informed, efficient, and personalized travel decisions.
+**TripLens Global** is a forward-thinking travel and tourism analytics company dedicated to transforming how individuals and organisations explore destinations worldwide. Founded in 2023, the company delivers data-driven insights that empower travellers and travel agencies to make informed, efficient, and personalised travel decisions.
 
-At its core, TripLens Global integrates advanced data engineering and analytics techniques to collect, process, and present comprehensive country-level information. Its platform centralizes critical travel data—including regions, languages, currencies, time zones, and neighbouring countries—into a single, user-friendly interface.
+At its core, TripLens Global integrates advanced data engineering and analytics techniques to collect, process, and present comprehensive country-level information. Its platform centralises critical travel data, including regions, languages, currencies, time zones, and neighbouring countries, into a single, user-friendly interface.
 
 ---
 
@@ -21,7 +21,7 @@ Transforming complex and diverse datasets into a clear, intuitive format that ca
 
 **2. Data Integration**
 
-Aggregating and synchronizing data from multiple sources, including public APIs and government databases, while ensuring consistency, accuracy, and real-time updates.
+Aggregating and synchronising data from multiple sources, including public APIs and government databases, while ensuring consistency, accuracy, and real-time updates.
 
 **3. Scalability**
 
@@ -38,15 +38,15 @@ Design and implement a robust data pipeline using Python, DBT, and Apache Airflo
 
 **2. Data Processing and Integration**
 
-Aggregate and standardize country-level data from APIs, government databases, and open data platforms to create a unified and reliable dataset for analysis.
+Aggregate and standardise country-level data from APIs, government databases, and open data platforms to create a unified and reliable dataset for analysis.
 
 **3. Enhance User Experience**
 
-Deliver clear and comprehensive country profiles by presenting key information—such as region, language, currency, and neighbouring countries—in an intuitive and user-friendly format.
+Deliver clear and comprehensive country profiles by presenting key information, such as region, language, currency, and neighbouring countries, in an intuitive and user-friendly format.
 
 **4. Build Interactive Dashboards and Reports**
 
-Develop dynamic and customizable dashboards using Power BI, enabling users to explore travel insights, monitor trends, and make data-driven decisions in real time.
+Develop dynamic, customizable dashboards with Power BI, enabling users to explore travel insights, monitor trends, and make data-driven decisions in real time.
 
 ---
 
@@ -94,11 +94,7 @@ Develop dynamic and customizable dashboards using Power BI, enabling users to ex
 ---
 
 ## Approach & Methodology
-This project was developed entirely using **Snowflake and Microsoft Power BI**, covering the full analytics workflow — from data cleaning and transformation to modeling, analysis, and visualization. The objective was to help users compare countries based on travel-relevant factors such as population density, UN membership, independence, and more. 
-
-The project transforms raw country-level data into a dynamic, user-driven decision tool, allowing users to select preferences and instantly see the best travel options.
-
----
+This project was developed entirely using **Snowflake and Microsoft Power BI**, covering the full analytics workflow, from data cleaning and transformation to modeling, analysis, and visualization. The objective was to help users compare countries based on travel-relevant factors such as population density, UN membership, independence, and more. 
 
 ## 🧱 Data Modeling Approach
 
